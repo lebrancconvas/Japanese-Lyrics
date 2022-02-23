@@ -2,6 +2,8 @@
 ## Information  
 Track: ≠ME  
 Artist: ≠ME  
+## Link to Listen  
+[Spotify](https://open.spotify.com/track/3Y100abgqX8lyjT9pCktZr?si=dde58d339c244424)  
 ## Lyric  
 痛いくらいに  
 ギラつく日差し  
