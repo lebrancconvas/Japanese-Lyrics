@@ -93,4 +93,17 @@
             "spotify": "https://open.spotify.com/track/4Pusa2zO6F4fTzDHEV7Oqf?si=202274e1aa024314"
         }
     }]
+}, {
+    "artistid": 8,
+    "artist": "Shimatani Hitomi (島谷 ひとみ)",
+    "artistcode": "a000502",
+    "tracks": [{
+        "trackid": 1,
+        "track": "Falco -ファルコ-",
+        "trackcode": "l00477b",
+        "links": {
+            "youtube": "https://www.youtube.com/watch?v=wmWCZ85R3sI",
+            "spotify": "https://open.spotify.com/track/5MzRjrKRyYhVdzHs58oauA?si=f2f5b32be7014496"
+        }
+    }]
 }]
