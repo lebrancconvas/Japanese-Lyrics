@@ -1,7 +1,7 @@
-# [Cool & Soul - Arashi](https://j-lyric.net/artist/a000eac/l00f002.html)  
+# [Cool & Soul - ARASHI](https://j-lyric.net/artist/a000eac/l00f002.html)  
 ## Information  
 Track: Cool & Soul  
-Artist: Arashi  
+Artist: ARASHI  
 ## Link to Listen  
 [Youtube](#)  
 [Spotify](#)  

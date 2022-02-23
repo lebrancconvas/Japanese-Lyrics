@@ -1,7 +1,7 @@
-# [A-RA-SHI : Reborn - Arashi](https://j-lyric.net/artist/a000eac/l052701.html)  
+# [A-RA-SHI : Reborn - ARASHI](https://j-lyric.net/artist/a000eac/l052701.html)  
 ## Information  
 Track: A-RA-SHI : Reborn  
-Artist: Arashi  
+Artist: ARASHI  
 ## Link to Listen  
 [Youtube](https://www.youtube.com/watch?v=woqtlIbFJGU)  
 [Spotify](https://open.spotify.com/track/0HvWmBkbmbm07pMvjahFbv?si=2fcd52c165b447d9)  
