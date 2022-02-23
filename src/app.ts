@@ -1,9 +1,9 @@
 import {PrintLyric} from './lib/JapaneseLyrics';
 
-const App = async() => {
+const App = async(artistid: number, trackid: number) => {
 	try {
 		console.log('Puppeteer is ready to work.');
-		const response = await PrintLyric(1, 1);
+		const response = await PrintLyric(artistid, trackid);
 		if(response !== undefined) {
 			console.log(response);
 		} else {
@@ -15,4 +15,4 @@ const App = async() => {
 	}
 }
 
-App();
+App(1,2);
