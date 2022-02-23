@@ -9,7 +9,10 @@
     }, {
         "trackid": 2,
         "track": "≠ME",
-        "trackcode": "l054a71"
+        "trackcode": "l054a71",
+        "links": {
+            "spotify": "https://open.spotify.com/track/3Y100abgqX8lyjT9pCktZr?si=dde58d339c244424"
+        }
     }]
 }, {
     "artistid": 2,
@@ -18,7 +21,11 @@
     "tracks": [{
         "trackid": 1,
         "track": "Love Machine (LOVEマシーン)",
-        "trackcode": "l0008bd"
+        "trackcode": "l0008bd",
+        "links": {
+            "youtube": "https://www.youtube.com/watch?v=6A7j6eryPV4",
+            "spotify": "#"
+        }
     }]
 }, {
     "artistid": 3,
@@ -39,7 +46,10 @@
     "tracks": [{
         "trackid": 1,
         "track": "Just Communication",
-        "trackcode": "l006ee5"
+        "trackcode": "l006ee5",
+        "links": {
+            "spotify": "https://open.spotify.com/track/7whyLhLqIbgCFerm0Hohkm?si=086f00397cc74ef4"
+        }
     }]
 }, {
     "artistid": 5,
@@ -48,7 +58,10 @@
     "tracks": [{
         "trackid": 1,
         "track": "Baby! Baby! Baby!",
-        "trackcode": "l013848"
+        "trackcode": "l013848",
+        "links": {
+            "spotify": "https://open.spotify.com/track/0y4L83izz4k54F3F7IFCLt?si=10a5be17bd804b22"
+        }
     }]
 }, {
     "artistid": 6,
