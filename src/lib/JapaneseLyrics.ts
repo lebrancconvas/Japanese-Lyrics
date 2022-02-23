@@ -36,8 +36,9 @@ const PrintLyric = async(artistid: number, trackid: number) => {
 	const artistname = JLyric[artistid - 1].artist; 
 	const artistcode = JLyric[artistid - 1].artistcode;
 	const trackcode = JLyric[artistid - 1].tracks[trackid - 1].trackcode;
+	const trackspotify = JLyric[artistid - 1].tracks[trackid - 1].links.spotify;
 	const url = `https://j-lyric.net/artist/${artistcode}/${trackcode}.html`;
-	let lyricText = `# [${trackname} - ${artistname}](${url})  \n## Information  \nTrack: ${trackname}  \nArtist: ${artistname}  \n## Lyric  \n`;
+	let lyricText = `# [${trackname} - ${artistname}](${url})  \n## Information  \nTrack: ${trackname}  \nArtist: ${artistname}  \n## Link to Listen  \n[Spotify](${trackspotify})  \n## Lyric  \n`;
 	for(let i = 0; i < lyricList.length; i++) {
 		lyricText += `${lyricList[i]}  \n`;
 	}
