@@ -2,6 +2,8 @@
 ## Information  
 Track: Just Communication  
 Artist: Two-Mix  
+## Link to Listen  
+[Spotify](https://open.spotify.com/track/7whyLhLqIbgCFerm0Hohkm?si=086f00397cc74ef4)  
 ## Lyric  
 JUST WILD BEAT COMMUNICATION  
 雨に打たれながら  
