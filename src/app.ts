@@ -15,4 +15,7 @@ const App = async(artistid: number, trackid: number) => {
 	}
 }
 
-App(1,2);
+App(3,1); 
+
+
+
