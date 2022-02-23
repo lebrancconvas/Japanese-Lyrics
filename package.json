@@ -8,7 +8,8 @@
     "scripts": {
         "build": "tsc",
         "run": "node dist/app.js",
-        "test": "tsc && node dist/app.js"
+        "test": "tsc && node dist/app.js",
+        "start": "tsc && node dist/app.js"
     },
     "dependencies": {
         "puppeteer": "^13.3.2"

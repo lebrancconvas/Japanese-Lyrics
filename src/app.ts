@@ -1,16 +1,17 @@
-const {PuppeteerProject} = require('./lib/Puppeteer');
+import {PrintLyric} from './lib/JapaneseLyrics';
 
 const App = async() => {
-	console.log('Puppeteer is ready to start.');
 	try {
-		const response = await PuppeteerProject();
+		console.log('Puppeteer is ready to work.');
+		const response = await PrintLyric(1, 1);
 		if(response !== undefined) {
 			console.log(response);
+		} else {
+			console.log('Puppeteer works success.'); 
 		}
-		console.log('Puppeteer is working success.');
-	} catch(err) {
+	} catch (err) {
 		console.log(err);
-		console.log('Puppeteer is working fail.');
+		console.log("Puppeteer works fail.");
 	}
 }
 

@@ -1,0 +1,59 @@
+[{
+    "artistid": 1,
+    "artist": "≠ME",
+    "artistcode": "a0609a3",
+    "tracks": [{
+        "trackid": 1,
+        "track": "P.I.C.",
+        "trackcode": "l052c0a"
+    }, {
+        "trackid": 2,
+        "track": "≠ME",
+        "trackcode": "l054a71"
+    }]
+}, {
+    "artistid": 2,
+    "artist": "Morning Musume (モーニング娘)",
+    "artistcode": "a000626",
+    "tracks": [{
+        "trackid": 1,
+        "track": "Love Machine (LOVEマシーン)",
+        "trackcode": "l0008bd"
+    }]
+}, {
+    "artistid": 3,
+    "artist": "Hinatazaka46 (日向坂46)",
+    "artistcode": "a06076f",
+    "tracks": [{
+        "trackid": 1,
+        "track": "",
+        "trackcode": ""
+    }]
+}, {
+    "artistid": 4,
+    "artist": "Two-Mix",
+    "artistcode": "a0047c8",
+    "tracks": [{
+        "trackid": 1,
+        "track": "Just Communication",
+        "trackcode": "l006ee5"
+    }]
+}, {
+    "artistid": 5,
+    "artist": "AKB48",
+    "artistcode": "a04cb7c",
+    "tracks": [{
+        "trackid": 1,
+        "track": "Baby! Baby! Baby!",
+        "trackcode": "l013848"
+    }]
+}, {
+    "artistid": 6,
+    "artist": "RADWIMPS",
+    "artistcode": "a04ac97",
+    "tracks": [{
+        "trackid": 1,
+        "track": "棒人間",
+        "trackcode": "l03da1e"
+    }]
+}]
