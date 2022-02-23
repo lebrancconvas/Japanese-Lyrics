@@ -1,4 +1,4 @@
-# Lebranc-Documentation-Template
+# Japanese Lyrics
 
 ## Overview
 
@@ -8,7 +8,7 @@
 
 ## Feature
 
-## Tools 
+## Tools
 
 ### Programming Language
 
