@@ -2,6 +2,8 @@
 ## Information  
 Track: Baby! Baby! Baby!  
 Artist: AKB48  
+## Link to Listen  
+[Spotify](https://open.spotify.com/track/0y4L83izz4k54F3F7IFCLt?si=10a5be17bd804b22)  
 ## Lyric  
 I love you! Baby! Baby! Baby!  
 振り向いてくれ　誰かに向けてるその視線  
