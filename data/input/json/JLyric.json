@@ -130,5 +130,13 @@
             "youtube": "#",
             "spotify": "#"
         }
+    }, {
+        "trackid": 2,
+        "track": "A-RA-SHI : Reborn",
+        "trackcode": "l052701",
+        "links": {
+            "youtube": "https://www.youtube.com/watch?v=woqtlIbFJGU",
+            "spotify": "https://open.spotify.com/track/0HvWmBkbmbm07pMvjahFbv?si=2fcd52c165b447d9"
+        }
     }]
 }]
