@@ -15,8 +15,8 @@ const App = async(artistid: number, trackid: number) => {
 	}
 }
 
-App(7,2); 
- 
+App(8,1); 
+
 
 
 
