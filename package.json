@@ -1,0 +1,16 @@
+{
+    "name": "pptrtctp",
+    "version": "1.0.0",
+    "main": "dist/.js",
+    "repository": "https://github.com/lebrancconvas/Puppeteer-Typescript-Template.git",
+    "author": "lebrancconvas <lebrancconvas@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "build": "tsc",
+        "run": "node dist/app.js",
+        "test": "tsc && node dist/app.js"
+    },
+    "dependencies": {
+        "puppeteer": "^13.3.2"
+    }
+}
