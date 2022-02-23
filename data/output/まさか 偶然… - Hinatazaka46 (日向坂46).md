@@ -2,6 +2,8 @@
 ## Information  
 Track: まさか 偶然…  
 Artist: Hinatazaka46 (日向坂46)  
+## Link to Listen  
+[Spotify](https://open.spotify.com/track/3ca4aSQuGLO5LXhPwmueZt?si=4693d64e54094f1d)  
 ## Lyric  
 道路の工事で  
 渋滞し始めた  
