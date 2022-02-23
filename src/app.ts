@@ -15,7 +15,11 @@ const App = async(artistid: number, trackid: number) => {
 	}
 }
 
-App(3,1); 
+App(7,2); 
+ 
+
+
+
 
 
 
