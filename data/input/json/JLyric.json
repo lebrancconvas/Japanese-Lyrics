@@ -27,7 +27,10 @@
     "tracks": [{
         "trackid": 1,
         "track": "まさか 偶然…",
-        "trackcode": "l04dadf"
+        "trackcode": "l04dadf",
+        "links": {
+            "spotify": "https://open.spotify.com/track/3ca4aSQuGLO5LXhPwmueZt?si=4693d64e54094f1d"
+        }
     }]
 }, {
     "artistid": 4,
