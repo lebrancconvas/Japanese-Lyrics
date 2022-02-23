@@ -3,6 +3,7 @@
 Track: Baby! Baby! Baby!  
 Artist: AKB48  
 ## Link to Listen  
+[Youtube](https://www.youtube.com/watch?v=6sTlpjDHB7k)  
 [Spotify](https://open.spotify.com/track/0y4L83izz4k54F3F7IFCLt?si=10a5be17bd804b22)  
 ## Lyric  
 I love you! Baby! Baby! Baby!  

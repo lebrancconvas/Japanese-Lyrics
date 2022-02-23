@@ -2,6 +2,9 @@
 ## Information  
 Track: P.I.C.  
 Artist: ≠ME  
+## Link to Listen  
+[Youtube](#)  
+[Spotify](https://open.spotify.com/track/0L71Wvl7eBOwFQumP7oIX8?si=66c6f29e0e5f4e3e)  
 ## Lyric  
 1 2 まだ間に合う Breaking  
 3 4 今しかない Gimmick  
