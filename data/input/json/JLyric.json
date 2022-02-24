@@ -7,7 +7,7 @@
         "track": "P.I.C.",
         "trackcode": "l052c0a",
         "links": {
-            "youtube": "#",
+            "youtube": "https://www.youtube.com/watch?v=DJdpqIGp1XA",
             "spotify": "https://open.spotify.com/track/0L71Wvl7eBOwFQumP7oIX8?si=66c6f29e0e5f4e3e"
         }
     }, {
@@ -15,7 +15,7 @@
         "track": "≠ME",
         "trackcode": "l054a71",
         "links": {
-            "youtube": "#",
+            "youtube": "https://www.youtube.com/watch?v=wsKSUGDKRpQ",
             "spotify": "https://open.spotify.com/track/3Y100abgqX8lyjT9pCktZr?si=dde58d339c244424"
         }
     }]
@@ -29,7 +29,7 @@
         "trackcode": "l0008bd",
         "links": {
             "youtube": "https://www.youtube.com/watch?v=6A7j6eryPV4",
-            "spotify": "#"
+            "spotify": null
         }
     }]
 }, {
@@ -41,7 +41,7 @@
         "track": "まさか 偶然…",
         "trackcode": "l04dadf",
         "links": {
-            "youtube": "#",
+            "youtube": "https://www.youtube.com/watch?v=bOS0qEl6OLU",
             "spotify": "https://open.spotify.com/track/3ca4aSQuGLO5LXhPwmueZt?si=4693d64e54094f1d"
         }
     }, {
@@ -62,7 +62,7 @@
         "track": "Just Communication",
         "trackcode": "l006ee5",
         "links": {
-            "youtube": "#",
+            "youtube": "https://www.youtube.com/watch?v=Tf40QBWLRVE",
             "spotify": "https://open.spotify.com/track/7whyLhLqIbgCFerm0Hohkm?si=086f00397cc74ef4"
         }
     }]
@@ -88,8 +88,8 @@
         "track": "棒人間",
         "trackcode": "l03da1e",
         "links": {
-            "youtube": "#",
-            "spotify": "#"
+            "youtube": null,
+            "spotify": null
         }
     }]
 }, {
@@ -101,7 +101,7 @@
         "track": "Blue Blood",
         "trackcode": "l005b0a",
         "links": {
-            "youtube": "#",
+            "youtube": "https://www.youtube.com/watch?v=kcwrFfZe70U",
             "spotify": "https://open.spotify.com/track/0aQ6NuGFeiGOVr8CYAf4eF?si=6db5c1d1a8bc46b9"
         }
     }, {
@@ -109,7 +109,7 @@
         "track": "Kurenai (紅)",
         "trackcode": "l007866",
         "links": {
-            "youtube": "",
+            "youtube": "https://www.youtube.com/watch?v=N6lKT8REALw",
             "spotify": "https://open.spotify.com/track/4Pusa2zO6F4fTzDHEV7Oqf?si=202274e1aa024314"
         }
     }]
@@ -135,8 +135,8 @@
         "track": "Cool & Soul",
         "trackcode": "l00f002",
         "links": {
-            "youtube": "#",
-            "spotify": "#"
+            "youtube": null,
+            "spotify": null
         }
     }, {
         "trackid": 2,
