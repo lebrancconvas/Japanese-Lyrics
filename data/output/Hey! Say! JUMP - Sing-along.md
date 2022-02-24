@@ -4,7 +4,7 @@ Track: Sing-along
 Artist: Hey! Say! JUMP  
 ## Link to Listen  
 [Youtube](https://www.youtube.com/watch?v=QnlzkEkTbDA)  
-[Spotify](#)  
+[Spotify](null)  
 ## Lyric  
 勇気を繋ぎ合わせて  
 夢へと向かう僕らは  
