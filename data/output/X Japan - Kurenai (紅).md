@@ -3,7 +3,7 @@
 Track: Kurenai (紅)  
 Artist: X Japan  
 ## Link to Listen  
-[Youtube]()  
+[Youtube](https://www.youtube.com/watch?v=N6lKT8REALw)  
 [Spotify](https://open.spotify.com/track/4Pusa2zO6F4fTzDHEV7Oqf?si=202274e1aa024314)  
 ## Lyric  
 I could not look backyou'd gone away from me  

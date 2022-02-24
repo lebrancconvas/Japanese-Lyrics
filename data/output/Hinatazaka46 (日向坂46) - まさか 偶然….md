@@ -3,7 +3,7 @@
 Track: まさか 偶然…  
 Artist: Hinatazaka46 (日向坂46)  
 ## Link to Listen  
-[Youtube](#)  
+[Youtube](https://www.youtube.com/watch?v=bOS0qEl6OLU)  
 [Spotify](https://open.spotify.com/track/3ca4aSQuGLO5LXhPwmueZt?si=4693d64e54094f1d)  
 ## Lyric  
 道路の工事で  

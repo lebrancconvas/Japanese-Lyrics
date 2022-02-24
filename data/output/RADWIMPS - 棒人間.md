@@ -3,8 +3,8 @@
 Track: 棒人間  
 Artist: RADWIMPS  
 ## Link to Listen  
-[Youtube](#)  
-[Spotify](#)  
+[Youtube](null)  
+[Spotify](null)  
 ## Lyric  
 ねぇ、僕は人間じゃないんです ほんとにごめんなさい  
 そっくりにできてるもんで よく間違われるのです  

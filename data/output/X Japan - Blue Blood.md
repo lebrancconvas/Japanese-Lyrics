@@ -3,7 +3,7 @@
 Track: Blue Blood  
 Artist: X Japan  
 ## Link to Listen  
-[Youtube](#)  
+[Youtube](https://www.youtube.com/watch?v=kcwrFfZe70U)  
 [Spotify](https://open.spotify.com/track/0aQ6NuGFeiGOVr8CYAf4eF?si=6db5c1d1a8bc46b9)  
 ## Lyric  
 My face is covered with blood  

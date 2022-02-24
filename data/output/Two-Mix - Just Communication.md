@@ -3,7 +3,7 @@
 Track: Just Communication  
 Artist: Two-Mix  
 ## Link to Listen  
-[Youtube](#)  
+[Youtube](https://www.youtube.com/watch?v=Tf40QBWLRVE)  
 [Spotify](https://open.spotify.com/track/7whyLhLqIbgCFerm0Hohkm?si=086f00397cc74ef4)  
 ## Lyric  
 JUST WILD BEAT COMMUNICATION  

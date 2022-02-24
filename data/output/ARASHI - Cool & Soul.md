@@ -3,8 +3,8 @@
 Track: Cool & Soul  
 Artist: ARASHI  
 ## Link to Listen  
-[Youtube](#)  
-[Spotify](#)  
+[Youtube](null)  
+[Spotify](null)  
 ## Lyric  
 ARASHI IS COOL　ツキヌケル　FEELS FUTURE  
 ARASHI IS SOUL　ミライヘノマクガアク  

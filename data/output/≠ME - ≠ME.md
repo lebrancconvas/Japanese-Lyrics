@@ -3,7 +3,7 @@
 Track: ≠ME  
 Artist: ≠ME  
 ## Link to Listen  
-[Youtube](#)  
+[Youtube](https://www.youtube.com/watch?v=wsKSUGDKRpQ)  
 [Spotify](https://open.spotify.com/track/3Y100abgqX8lyjT9pCktZr?si=dde58d339c244424)  
 ## Lyric  
 痛いくらいに  

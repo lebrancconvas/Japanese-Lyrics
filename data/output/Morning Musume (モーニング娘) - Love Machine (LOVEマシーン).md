@@ -4,7 +4,7 @@ Track: Love Machine (LOVEマシーン)
 Artist: Morning Musume (モーニング娘)  
 ## Link to Listen  
 [Youtube](https://www.youtube.com/watch?v=6A7j6eryPV4)  
-[Spotify](#)  
+[Spotify](null)  
 ## Lyric  
 あんたにゃ もったいない (fu-fu-)  
 あたしゃ本当 NICE BODY  
