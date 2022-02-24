@@ -26,6 +26,9 @@ const GetLyric = async(artistid: number, trackid: number) => {
 	const element = await page.$(lyricSelector);
 	const lyric = await page.evaluate((el: any) => el.innerHTML, element);
 
+	await page.close();
+	await browser.close();
+
 	return lyric;
 };
 
@@ -49,4 +52,4 @@ const PrintLyric = async(artistid: number, trackid: number) => {
 	})
 }
 
-export {PrintLyric};
+export {PrintLyric, JLyric};
