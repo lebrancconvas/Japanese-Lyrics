@@ -155,4 +155,17 @@
             "spotify": "https://open.spotify.com/track/0wcSPdsoS8Yg6lJyBs57AE?si=ef7b2c78bb1a44a9"
         }
     }]
+}, {
+    "artistid": 10,
+    "artist": "Hey! Say! JUMP",
+    "artistcode": "a04d4b4",
+    "tracks": [{
+        "trackid": 1,
+        "track": "Sing-along",
+        "trackcode": "l056c48",
+        "links": {
+            "youtube": "https://www.youtube.com/watch?v=QnlzkEkTbDA",
+            "spotify": "#"
+        }
+    }]
 }]
