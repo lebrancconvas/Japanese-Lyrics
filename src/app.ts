@@ -21,13 +21,3 @@ for(let i = 0; i < Object.keys(JLyric).length; i++) {
 		App(i+1, j+1);  
 	}
 } 
-
-
-
-
-
-
-
-
-
-
