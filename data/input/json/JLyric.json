@@ -146,5 +146,13 @@
             "youtube": "https://www.youtube.com/watch?v=woqtlIbFJGU",
             "spotify": "https://open.spotify.com/track/0HvWmBkbmbm07pMvjahFbv?si=2fcd52c165b447d9"
         }
+    }, {
+        "trackid": 3,
+        "track": "Cosmos",
+        "trackcode": "l02a9c2",
+        "links": {
+            "youtube": "https://www.youtube.com/watch?v=OILoLhKnFWc",
+            "spotify": "https://open.spotify.com/track/0wcSPdsoS8Yg6lJyBs57AE?si=ef7b2c78bb1a44a9"
+        }
     }]
 }]
