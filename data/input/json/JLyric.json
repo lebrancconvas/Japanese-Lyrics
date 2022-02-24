@@ -44,6 +44,14 @@
             "youtube": "#",
             "spotify": "https://open.spotify.com/track/3ca4aSQuGLO5LXhPwmueZt?si=4693d64e54094f1d"
         }
+    }, {
+        "trackid": 2,
+        "track": "男友達だから (けやき坂46)",
+        "trackcode": "l04713d",
+        "links": {
+            "youtube": "https://www.youtube.com/watch?v=W0tX7ZLkQgA",
+            "spotify": "https://open.spotify.com/track/4oIE6cqz5HHgfXG55bXVOI?si=6c1326b3d30f4860"
+        }
     }]
 }, {
     "artistid": 4,
