@@ -11,7 +11,7 @@ const GetLyric = async(artistid: number, trackid: number) => {
 	const trackcode = JLyric[artistid - 1].tracks[trackid - 1].trackcode;
 	const urlPath: String[] = ['artist', artistcode, `${trackcode}.html`];
 	let queryParam = '';
-	
+
 	urlPath.map(path => {
 		queryParam += `/${path}`;
 	})
@@ -51,7 +51,7 @@ const PrintLyric = async(artistid: number, trackid: number) => {
 		lyricText += `${lyricList[i]}  \n`;
 	}
 
-	fs.writeFileSync(`./data/output/${trackname} - ${artistname}.md`, lyricText, (err: unknown) => {
+	fs.writeFileSync(`./data/output/${artistname} - ${trackname}.md`, lyricText, (err: unknown) => {
 		console.log(err);
 		console.log('File Writing Failed.');
 	})
