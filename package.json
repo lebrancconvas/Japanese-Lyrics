@@ -12,6 +12,7 @@
         "start": "tsc && node dist/app.js"
     },
     "dependencies": {
+        "nodemon": "^2.0.15",
         "puppeteer": "^13.3.2"
     }
 }
